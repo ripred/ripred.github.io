@@ -1,2 +1,6 @@
-# ripred.github.io
+ripred.github.io
+================
+
 Personal Website
+----------------
+
